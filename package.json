@@ -1,0 +1,10 @@
+{
+  "name": "united-carriers-local-mirror",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -l 3000 --no-clipboard"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

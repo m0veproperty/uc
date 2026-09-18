@@ -1,0 +1,6 @@
+{
+  "pages": 21,
+  "assets_localized": 1210,
+  "asset_failures": [],
+  "policy": "Local-only runtime. External asset, frame, form and connection requests are blocked by CSP and network guard."
+}

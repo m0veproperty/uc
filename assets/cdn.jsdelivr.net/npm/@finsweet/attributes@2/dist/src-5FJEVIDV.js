@@ -1,0 +1,1 @@
+import{b as t,c as i}from"./chunk-GGDEANQW.js";import"./chunk-K46K3RI5.js";var s="0.0.5";var n=async()=>{await i(),await t("list"),await t("queryparam");let e=new URL(window.location.href);return e.search="",window.history.replaceState({},"",e),{}};var o=[],a={};export{o as ELEMENTS,a as SETTINGS,n as init,s as version};
